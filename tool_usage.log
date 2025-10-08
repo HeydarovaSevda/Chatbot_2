@@ -1,0 +1,6 @@
+{"event": "tool_start", "tool": "forecaster", "input": "{'city': 'Gdansk'}", "t": "2025-10-08 16:18:26"}
+{"event": "tool_end", "output": "Gdansk: 🌦   +11°C\n", "t": "2025-10-08 16:18:27"}
+{"event": "tool_start", "tool": "calculator", "input": "{'expr': '9/2+4'}", "t": "2025-10-08 16:19:09"}
+{"event": "tool_end", "output": "8.5", "t": "2025-10-08 16:19:09"}
+{"event": "tool_start", "tool": "forecaster", "input": "{'city': 'Orlando'}", "t": "2025-10-08 16:22:27"}
+{"event": "tool_end", "output": "Orlando: ☀️   +23°C\n", "t": "2025-10-08 16:22:27"}
