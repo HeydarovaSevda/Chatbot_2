@@ -38,7 +38,7 @@ Other queries → direct LLM reply (no tool)
 
 
 ### Safety & Validation  
-**calculator**
+**calculator**  
 Evaluates with no builtins: eval(expr, {"__builtins__": {}}, allowed_functs)  
 allowed_functs is a whitelist from math  
 Errors are caught and returned as user-safe messages  
